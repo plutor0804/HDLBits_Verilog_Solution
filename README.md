@@ -12,7 +12,7 @@ Each solution file is named after the corresponding HDLBits problem.
 To view or run the solutions:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/hdlbits-verilog-solutions.git
+   git clone https://github.com/plutor0804/HDLBits_Verilog_Solution.git
    cd hdlbits-verilog-solutions
 2. Open the .v files in your preferred Verilog simulator or editor (e.g., Icarus Verilog, ModelSim, or the online HDLBits IDE).
 
